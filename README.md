@@ -1,6 +1,11 @@
 ### Hi there 👋 I'm Bruno, upcoming Software Engineer in Denmark from Latvia.
 
 - 🌱 I’m currently learning C# and .NET
+- 👨‍💻 HTML / CSS / Tailwind/ Bootstrap/ JavaScript / React / PHP 
+- 🔙 Java
+- 📊 MySQL / PostgreSQL 
+- 🗨️ Agile (Scrum) / UP / UML
+- 🛠️ VSCode / IntelliJ / DataGrip / Rider / Github /  Jira Atlassian  
 - ⚡ Fun fact: Played football for 15 years, then decided to become a Software developer.
 
 ## Contact 🌐

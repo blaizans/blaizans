@@ -5,7 +5,7 @@
 - 🔙 Java / PHP
 - 📊 MySQL / PostgreSQL 
 - 🗨️ Agile (Scrum) / UP / UML
-- 🛠️ VSCode / IntelliJ / DataGrip / Rider / Github /  Jira Atlassian  
+- 🛠️ VSCode / IntelliJ / DataGrip / Rider /  Jira Atlassian  
 - ⚡ Fun fact: Played football for 15 years, then decided to become a Software developer.
 
 ## Contact 🌐

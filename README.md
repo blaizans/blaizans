@@ -12,3 +12,7 @@
 - [Portfolio](https://blaizans.com/)
 - [LinkedIn](https://www.linkedin.com/in/bruno-laizans/)
 - [GitHub](https://github.com/blaizans/)
+
+<div id="header" align="center">
+  <img src="https://komarev.com/ghpvc/?username=kkristiansd&style=flat-square&color=green" alt="" width="130"/>
+</div>

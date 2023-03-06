@@ -14,5 +14,5 @@
 - [GitHub](https://github.com/blaizans/)
 
 <div id="header" align="center">
-  <img src="https://komarev.com/ghpvc/?username=kkristiansd&style=flat-square&color=green" alt="" width="130"/>
+  <img src="https://komarev.com/ghpvc/?username=kokas340&style=flat-square&color=green" alt="" width="130"/>
 </div>

@@ -9,9 +9,9 @@
 - ⚡ Fun fact: Played football for 15 years, then decided to become a Software developer.
 
 ## Contact 🌐
-- [Portfolio](https://blaizans.com/)
-- [LinkedIn](https://www.linkedin.com/in/bruno-laizans/)
-- [GitHub](https://github.com/blaizans/)
+- [Portfolio👤](https://blaizans.com/)
+- [LinkedIn🖇️](https://www.linkedin.com/in/bruno-laizans/)
+- [GitHub💼](https://github.com/blaizans/)
 
 <div id="header" align="center">
   <img src="https://komarev.com/ghpvc/?username=kkristiansd&style=flat-square&color=green" alt="" width="130"/>

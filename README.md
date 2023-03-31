@@ -8,9 +8,9 @@
 - 🛠️ VSCode / IntelliJ / DataGrip / Rider /  Jira Atlassian  
 - ⚡ Fun fact: Played football for 15 years, then decided to become a Software developer.
 
-## Contact 🌐
+## Contact ☎️
 - [Portfolio👤](https://blaizans.com/)
-- [LinkedIn🖇️](https://www.linkedin.com/in/bruno-laizans/)
+- [LinkedIn🌐](https://www.linkedin.com/in/bruno-laizans/)
 - [GitHub💼](https://github.com/blaizans/)
 
 <div id="header" align="center">

@@ -1,11 +1,12 @@
 ### Hi there 👋 I'm Bruno, upcoming Software Engineer in Denmark from Latvia.
 
-- 🌱 I’m currently learning C# and .NET
+- 🤓 C / Docker, Kubernetes 
 - 👨‍💻 HTML / CSS / Tailwind / Bootstrap / JavaScript / React 
-- 🔙 Java / PHP
-- 📊 MySQL / PostgreSQL 
-- 🗨️ Agile (Scrum) / UP / UML
-- 🛠️ VSCode / IntelliJ / DataGrip / Rider /  Jira Atlassian  
+- 🔙 Java / C#
+- 🌱 Spring / .NET
+- 📊 MySQL / PostgreSQL / SQLite
+- 🗨️ Agile (Scrum, Kanban) / UP / UML
+- 🛠️ VSCode / IntelliJ / DataGrip / Rider / Jira Atlassian  
 - ⚡ Fun fact: Played football for 15 years, then decided to become a Software developer.
 
 ## Contact ☎️

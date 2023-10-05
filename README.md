@@ -1,6 +1,6 @@
 ### Hi there 👋 I'm Bruno, upcoming Software Engineer in Denmark from Latvia.
 
-- 🤓 C / Docker, Kubernetes 
+- 🤓 C / Docker, Kubernetes / WSL
 - 👨‍💻 HTML / CSS / Tailwind / Bootstrap / JavaScript / React 
 - 🔙 Java / C#
 - 🌱 Spring / .NET

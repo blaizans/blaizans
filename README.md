@@ -6,9 +6,8 @@ Software Engineer
 
 * 🌍  I'm based in Horsens, Denmark
 * 🖥️  See my portfolio at [blaizans.com](http://www.blaizans.com/)
-* 🚀  I'm currently working on [PetFeeder](http://github.com/orgs/Pet-Feeder-SEP4/repositories)
-* 🧠  I'm learning C, DevOps, CI/CD
-* 🤝  I'm open to collaborating on open-source projects.
+* 🚀  I'm currently working on Bachelor project with ML Integration.
+* 🧠  In my last semester I am learning Machine Learning, Calculus and Stochastic Modelling & Processes.
 
 ### Skills
 

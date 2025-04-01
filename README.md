@@ -5,7 +5,7 @@ Software Engineer
 -----------------
 
 * 🌍  I'm based in Horsens, Denmark
-* 🖥️  See my portfolio at [blaizans.com](http://www.blaizans.com/)
+* 🖥️  See my portfolio at [blaizans.vercel.app](https://blaizans.vercel.app/)
 * 🚀  I'm currently working on Bachelor project with ML Integration.
 * 🧠  In my last semester I am learning Machine Learning, Calculus and Stochastic Modelling & Processes.
 

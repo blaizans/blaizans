@@ -65,7 +65,7 @@
 
   <g class="rise d4">
     <text x="64" y="242" font-family="ui-monospace,SFMono-Regular,Consolas,monospace" font-size="14" fill="#78716c">
-      open_to: <tspan fill="#84cc16">[data engineering, backend]</tspan>
+      open_to: <tspan fill="#84cc16">[data engineering, fullstack]</tspan>
     </text>
     <rect class="caret" x="349" y="230" width="8" height="15" fill="#84cc16"/>
   </g>

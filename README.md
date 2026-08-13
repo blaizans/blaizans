@@ -1,38 +1,132 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Bruno
-=====================================================================================================================================
+<div align="center">
 
-Software Engineer
------------------
+<img src="./assets/hero.svg" width="100%" alt="Bruno Laizāns, Software Engineer, Data Engineering" />
 
-* 🌍  I'm based in Horsens, Denmark
-* 🖥️  See my portfolio at [blaizans.vercel.app](https://blaizans.vercel.app/)
-* 🚀  I'm currently working on Bachelor project with ML Integration.
-* 🧠  In my last semester I am learning Machine Learning, Calculus and Stochastic Modelling & Processes.
+<br><br>
 
-### Skills
+<a href="#about">About</a>&nbsp;&nbsp;·&nbsp;&nbsp;<a href="#selected-work">Work</a>&nbsp;&nbsp;·&nbsp;&nbsp;<a href="#stack">Stack</a>&nbsp;&nbsp;·&nbsp;&nbsp;<a href="#experience">Experience</a>&nbsp;&nbsp;·&nbsp;&nbsp;<a href="#contact">Contact</a>
 
+<br><br>
 
-<p align="left">
-<a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/c-colored.svg" width="36" height="36" alt="C" /></a><a href="https://docs.microsoft.com/en-us/dotnet/csharp/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/csharp-colored.svg" width="36" height="36" alt="C#" /></a><a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" width="36" height="36" alt="Git" /></a><a href="https://www.oracle.com/java/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/java-colored.svg" width="36" height="36" alt="Java" /></a><a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" /></a><a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/typescript-colored.svg" width="36" height="36" alt="TypeScript" /></a><a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" /></a><a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" width="36" height="36" alt="React" /></a><a href="https://nextjs.org/docs" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nextjs-colored.svg" width="36" height="36" alt="NextJs" /></a><a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="36" height="36" alt="CSS3" /></a><a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/tailwindcss-colored.svg" width="36" height="36" alt="TailwindCSS" /></a><a href="https://getbootstrap.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/bootstrap-colored.svg" width="36" height="36" alt="Bootstrap" /></a><a href="https://nodejs.org/en/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nodejs-colored.svg" width="36" height="36" alt="NodeJS" /></a><a href="https://expressjs.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/express-colored.svg" width="36" height="36" alt="Express" /></a><a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" width="36" height="36" alt="MySQL" /></a><a href="https://www.postgresql.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/postgresql-colored.svg" width="36" height="36" alt="PostgreSQL" /></a><a href="https://firebase.google.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/firebase-colored.svg" width="36" height="36" alt="Firebase" /></a><a href="https://dotnet.microsoft.com/en-us/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/dot-net-colored.svg" width="36" height="36" alt=".NET" /></a><a href="https://store.arduino.cc/?gclid=Cj0KCQjw2eilBhCCARIsAG0Pf8uueBifykWcsSS4LPESeGQfxGVKJYnzV7bz471XfknQJy_1VINVWM8aAkLtEALw_wcB" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/arduino-colored.svg" width="36" height="36" alt="Arduino" /></a><a href="https://www.docker.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/docker-colored.svg" width="36" height="36" alt="Docker" /></a><a href="https://www.linux.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/linux-colored.svg" width="36" height="36" alt="Linux" /></a><a href="https://www.raspberrypi.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/raspberrypi-colored.svg" width="36" height="36" alt="Raspberry Pi" /></a><a href="https://aws.amazon.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/aws-colored.svg" width="36" height="36" alt="Amazon Web Services" /></a><a href="https://www.adobe.com/uk/products/illustrator.html" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/illustrator-colored.svg" width="36" height="36" alt="Illustrator" /></a><a href="https://www.adobe.com/uk/products/photoshop.html" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/photoshop-colored.svg" width="36" height="36" alt="Photoshop" /></a><a href="https://www.adobe.com/uk/products/premiere.html" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/premierepro-colored.svg" width="36" height="36" alt="Premiere Pro" /></a><a href="https://cloud.google.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/googlecloud-colored.svg" width="36" height="36" alt="Google Cloud" /></a>
-</p>
+<a href="https://blaizans.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-0c0a09?style=for-the-badge&logo=vercel&logoColor=84cc16" alt="Portfolio" /></a>
+<a href="https://www.linkedin.com/in/bruno-laizans/"><img src="https://img.shields.io/badge/LinkedIn-0c0a09?style=for-the-badge&logo=linkedin&logoColor=84cc16" alt="LinkedIn" /></a>
+<a href="mailto:your.email@example.com"><img src="https://img.shields.io/badge/Email-0c0a09?style=for-the-badge&logo=maildotru&logoColor=84cc16" alt="Email" /></a>
 
+</div>
 
-### Socials
+<br>
 
-<p align="left"> <a href="https://www.github.com/blaizans" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /> </picture> </a> <a href="https://www.linkedin.com/in/bruno-laizans/" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /> </picture> </a></p>
+## About
 
-### Badges
+I finished my BEng in **Software Engineering, Data Engineering specialisation**, at VIA University College in Horsens. I build things end to end: the model, the API behind it, and the interface people actually touch.
 
-<b>My GitHub Stats</b>
+Two of my sites run in production today, one of them behind an international tournament that has been going for 26 years.
 
-<a href="http://www.github.com/blaizans"><img src="https://github-readme-stats.vercel.app/api?username=blaizans&show_icons=true&hide=stars,&count_private=true&title_color=ffffff&text_color=84cc16&icon_color=84cc16&bg_color=1c1917&hide_border=true&show_icons=true" alt="blaizans's GitHub stats" /></a>
+`Aarhus, Denmark` &nbsp; `Latvian and Russian native` &nbsp; `English fluent` &nbsp; `Danish B2`
 
-<a href="http://www.github.com/blaizans"><img src="https://github-readme-streak-stats.herokuapp.com/?user=blaizans&stroke=84cc16&background=1c1917&ring=ffffff&fire=ffffff&currStreakNum=84cc16&currStreakLabel=ffffff&sideNums=84cc16&sideLabels=84cc16&dates=84cc16&hide_border=true" /></a>
+<br>
 
-<b>Top Repositories</b>
+## Selected work
 
-<div width="100%" align="center"><a href="https://github.com/blaizans/Portfolio" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=blaizans&repo=Portfolio&title_color=ffffff&text_color=84cc16&icon_color=84cc16&bg_color=1c1917&hide_border=true&locale=en" /></a><a href="https://github.com/blaizans/pokedex" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=blaizans&repo=pokedex&title_color=ffffff&text_color=84cc16&icon_color=84cc16&bg_color=1c1917&hide_border=true&locale=en" /></a></div><br /><br /><br /><br /><br /><br /><br />
+<table>
+<tr>
+<td width="50%" valign="top">
 
-<br /><br /><br /><br /><br />
+### Event ecosystem
+**Bachelor project**
 
-<div width="100%" align="center"><a href="https://github.com/blaizans/VIATAB" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=blaizans&repo=VIATAB&title_color=ffffff&text_color=84cc16&icon_color=84cc16&bg_color=1c1917&hide_border=true&locale=en" /></a><a href="https://github.com/blaizans/nQueensProblem" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=blaizans&repo=nQueensProblem&title_color=ffffff&text_color=84cc16&icon_color=84cc16&bg_color=1c1917&hide_border=true&locale=en" /></a></div>
+A full social platform for events, built across every surface. A React Native mobile app, a Next.js web app and public site, a Supabase backend, and a Python model that predicts how trendable an event will be so organisers can see what will land before they commit to it.
+
+`React Native` `Next.js` `Supabase` `Python` `ML`
+
+</td>
+<td width="50%" valign="top">
+
+### Riga Cup
+**[rigacup.lv](https://www.rigacup.lv)**
+
+The site behind an international youth football tournament in Riga, now in its 26th edition, drawing clubs and academies from Scandinavia, the Baltics and across Europe. Built and maintained by me, live year round.
+
+`Production` `Live`
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### Sport Teamline
+**[sport-teamline.dk](https://sport-teamline.dk)**
+
+A teamwear webshop taken from design through to deployment: storefront, product catalogue and checkout. Live.
+
+`E-commerce` `Production`
+
+</td>
+<td width="50%" valign="top">
+
+### Portfolio
+**[blaizans.vercel.app](https://blaizans.vercel.app/)**
+
+My personal site, where the longer write ups live. [Source](https://github.com/blaizans/Portfolio).
+
+`Next.js` `React` `Tailwind`
+
+</td>
+</tr>
+</table>
+
+<details>
+<summary><b>Earlier projects</b></summary>
+
+<br>
+
+- **[VIATAB](https://github.com/blaizans/VIATAB)** &nbsp;|&nbsp; _one line: what it is and who it was built for_
+- **[Pokedex](https://github.com/blaizans/pokedex)** &nbsp;|&nbsp; Pokédex app on the PokéAPI: search, browse and inspect species data
+- **[n-Queens](https://github.com/blaizans/nQueensProblem)** &nbsp;|&nbsp; backtracking solver for the classic n-Queens constraint problem
+
+</details>
+
+<br>
+
+## Stack
+
+|  |  |
+| :--- | :--- |
+| **Data and ML** | <img src="https://img.shields.io/badge/Python-0c0a09?style=flat-square&logo=python&logoColor=84cc16" /> <img src="https://img.shields.io/badge/NumPy-0c0a09?style=flat-square&logo=numpy&logoColor=84cc16" /> <img src="https://img.shields.io/badge/pandas-0c0a09?style=flat-square&logo=pandas&logoColor=84cc16" /> <img src="https://img.shields.io/badge/scikit--learn-0c0a09?style=flat-square&logo=scikitlearn&logoColor=84cc16" /> |
+| **Backend** | <img src="https://img.shields.io/badge/C%23-0c0a09?style=flat-square&logo=csharp&logoColor=84cc16" /> <img src="https://img.shields.io/badge/.NET-0c0a09?style=flat-square&logo=dotnet&logoColor=84cc16" /> <img src="https://img.shields.io/badge/Java-0c0a09?style=flat-square&logo=openjdk&logoColor=84cc16" /> <img src="https://img.shields.io/badge/Node.js-0c0a09?style=flat-square&logo=nodedotjs&logoColor=84cc16" /> <img src="https://img.shields.io/badge/Express-0c0a09?style=flat-square&logo=express&logoColor=84cc16" /> |
+| **Data stores** | <img src="https://img.shields.io/badge/PostgreSQL-0c0a09?style=flat-square&logo=postgresql&logoColor=84cc16" /> <img src="https://img.shields.io/badge/Supabase-0c0a09?style=flat-square&logo=supabase&logoColor=84cc16" /> <img src="https://img.shields.io/badge/MySQL-0c0a09?style=flat-square&logo=mysql&logoColor=84cc16" /> <img src="https://img.shields.io/badge/Firebase-0c0a09?style=flat-square&logo=firebase&logoColor=84cc16" /> |
+| **Frontend** | <img src="https://img.shields.io/badge/TypeScript-0c0a09?style=flat-square&logo=typescript&logoColor=84cc16" /> <img src="https://img.shields.io/badge/JavaScript-0c0a09?style=flat-square&logo=javascript&logoColor=84cc16" /> <img src="https://img.shields.io/badge/React-0c0a09?style=flat-square&logo=react&logoColor=84cc16" /> <img src="https://img.shields.io/badge/React%20Native-0c0a09?style=flat-square&logo=react&logoColor=84cc16" /> <img src="https://img.shields.io/badge/Next.js-0c0a09?style=flat-square&logo=nextdotjs&logoColor=84cc16" /> <img src="https://img.shields.io/badge/Tailwind-0c0a09?style=flat-square&logo=tailwindcss&logoColor=84cc16" /> |
+| **Cloud and ops** | <img src="https://img.shields.io/badge/AWS-0c0a09?style=flat-square&logo=amazonwebservices&logoColor=84cc16" /> <img src="https://img.shields.io/badge/Google%20Cloud-0c0a09?style=flat-square&logo=googlecloud&logoColor=84cc16" /> <img src="https://img.shields.io/badge/Docker-0c0a09?style=flat-square&logo=docker&logoColor=84cc16" /> <img src="https://img.shields.io/badge/Vercel-0c0a09?style=flat-square&logo=vercel&logoColor=84cc16" /> <img src="https://img.shields.io/badge/Linux-0c0a09?style=flat-square&logo=linux&logoColor=84cc16" /> <img src="https://img.shields.io/badge/Git-0c0a09?style=flat-square&logo=git&logoColor=84cc16" /> |
+
+<br>
+
+## Experience
+
+**Student Software Test Engineer**, Systematic &nbsp;·&nbsp; 2024 to 2026
+
+<br>
+
+## Activity
+
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/blaizans/blaizans/output/snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/blaizans/blaizans/output/snake.svg" />
+  <img src="https://raw.githubusercontent.com/blaizans/blaizans/output/snake.svg" width="100%" alt="Contribution graph" />
+</picture>
+
+<br><br>
+
+<img height="160" src="https://github-readme-stats.vercel.app/api?username=blaizans&show_icons=true&hide=stars&count_private=true&title_color=84cc16&text_color=fafaf9&icon_color=84cc16&bg_color=0c0a09&border_color=292524&border_radius=10" alt="GitHub stats" />
+<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=blaizans&layout=compact&langs_count=8&title_color=84cc16&text_color=fafaf9&bg_color=0c0a09&border_color=292524&border_radius=10" alt="Top languages" />
+
+</div>
+
+<br>
+
+## Contact
+
+Open to **data engineering and backend** roles, remote or on site in Denmark.
+
+<a href="https://www.linkedin.com/in/bruno-laizans/">LinkedIn</a>&nbsp;&nbsp;·&nbsp;&nbsp;<a href="https://blaizans.vercel.app/">Portfolio</a>&nbsp;&nbsp;·&nbsp;&nbsp;<a href="mailto:your.email@example.com">Email</a>

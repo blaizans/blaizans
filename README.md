@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="./assets/hero.svg" width="100%" alt="Bruno Laizāns, Software Engineer, Data Engineering" />
+<img src="./hero.svg" width="100%" alt="Bruno Laizāns, Software Engineer, Data Engineering" />
 
 <br><br>
 
@@ -90,13 +90,28 @@ My personal site, where the longer write ups live. [Source](https://github.com/b
 
 ## Stack
 
-|  |  |
-| :--- | :--- |
-| **Data and ML** | <img src="https://img.shields.io/badge/Python-0c0a09?style=flat-square&logo=python&logoColor=84cc16" /> <img src="https://img.shields.io/badge/NumPy-0c0a09?style=flat-square&logo=numpy&logoColor=84cc16" /> <img src="https://img.shields.io/badge/pandas-0c0a09?style=flat-square&logo=pandas&logoColor=84cc16" /> <img src="https://img.shields.io/badge/scikit--learn-0c0a09?style=flat-square&logo=scikitlearn&logoColor=84cc16" /> |
-| **Backend** | <img src="https://img.shields.io/badge/C%23-0c0a09?style=flat-square&logo=csharp&logoColor=84cc16" /> <img src="https://img.shields.io/badge/.NET-0c0a09?style=flat-square&logo=dotnet&logoColor=84cc16" /> <img src="https://img.shields.io/badge/Java-0c0a09?style=flat-square&logo=openjdk&logoColor=84cc16" /> <img src="https://img.shields.io/badge/Node.js-0c0a09?style=flat-square&logo=nodedotjs&logoColor=84cc16" /> <img src="https://img.shields.io/badge/Express-0c0a09?style=flat-square&logo=express&logoColor=84cc16" /> |
-| **Data stores** | <img src="https://img.shields.io/badge/PostgreSQL-0c0a09?style=flat-square&logo=postgresql&logoColor=84cc16" /> <img src="https://img.shields.io/badge/Supabase-0c0a09?style=flat-square&logo=supabase&logoColor=84cc16" /> <img src="https://img.shields.io/badge/MySQL-0c0a09?style=flat-square&logo=mysql&logoColor=84cc16" /> <img src="https://img.shields.io/badge/Firebase-0c0a09?style=flat-square&logo=firebase&logoColor=84cc16" /> |
-| **Frontend** | <img src="https://img.shields.io/badge/TypeScript-0c0a09?style=flat-square&logo=typescript&logoColor=84cc16" /> <img src="https://img.shields.io/badge/JavaScript-0c0a09?style=flat-square&logo=javascript&logoColor=84cc16" /> <img src="https://img.shields.io/badge/React-0c0a09?style=flat-square&logo=react&logoColor=84cc16" /> <img src="https://img.shields.io/badge/React%20Native-0c0a09?style=flat-square&logo=react&logoColor=84cc16" /> <img src="https://img.shields.io/badge/Next.js-0c0a09?style=flat-square&logo=nextdotjs&logoColor=84cc16" /> <img src="https://img.shields.io/badge/Tailwind-0c0a09?style=flat-square&logo=tailwindcss&logoColor=84cc16" /> |
-| **Cloud and ops** | <img src="https://img.shields.io/badge/AWS-0c0a09?style=flat-square&logo=amazonwebservices&logoColor=84cc16" /> <img src="https://img.shields.io/badge/Google%20Cloud-0c0a09?style=flat-square&logo=googlecloud&logoColor=84cc16" /> <img src="https://img.shields.io/badge/Docker-0c0a09?style=flat-square&logo=docker&logoColor=84cc16" /> <img src="https://img.shields.io/badge/Vercel-0c0a09?style=flat-square&logo=vercel&logoColor=84cc16" /> <img src="https://img.shields.io/badge/Linux-0c0a09?style=flat-square&logo=linux&logoColor=84cc16" /> <img src="https://img.shields.io/badge/Git-0c0a09?style=flat-square&logo=git&logoColor=84cc16" /> |
+<table>
+<tr>
+<td valign="middle"><b>Data and ML</b></td>
+<td valign="middle"><img src="https://img.shields.io/badge/Python-0c0a09?style=flat-square&logo=python&logoColor=84cc16" /> <img src="https://img.shields.io/badge/NumPy-0c0a09?style=flat-square&logo=numpy&logoColor=84cc16" /> <img src="https://img.shields.io/badge/pandas-0c0a09?style=flat-square&logo=pandas&logoColor=84cc16" /> <img src="https://img.shields.io/badge/scikit--learn-0c0a09?style=flat-square&logo=scikitlearn&logoColor=84cc16" /></td>
+</tr>
+<tr>
+<td valign="middle"><b>Backend</b></td>
+<td valign="middle"><img src="https://img.shields.io/badge/C%23-0c0a09?style=flat-square&logo=csharp&logoColor=84cc16" /> <img src="https://img.shields.io/badge/.NET-0c0a09?style=flat-square&logo=dotnet&logoColor=84cc16" /> <img src="https://img.shields.io/badge/Java-0c0a09?style=flat-square&logo=openjdk&logoColor=84cc16" /> <img src="https://img.shields.io/badge/Node.js-0c0a09?style=flat-square&logo=nodedotjs&logoColor=84cc16" /> <img src="https://img.shields.io/badge/Express-0c0a09?style=flat-square&logo=express&logoColor=84cc16" /></td>
+</tr>
+<tr>
+<td valign="middle"><b>Data stores</b></td>
+<td valign="middle"><img src="https://img.shields.io/badge/PostgreSQL-0c0a09?style=flat-square&logo=postgresql&logoColor=84cc16" /> <img src="https://img.shields.io/badge/Supabase-0c0a09?style=flat-square&logo=supabase&logoColor=84cc16" /> <img src="https://img.shields.io/badge/MySQL-0c0a09?style=flat-square&logo=mysql&logoColor=84cc16" /> <img src="https://img.shields.io/badge/Firebase-0c0a09?style=flat-square&logo=firebase&logoColor=84cc16" /></td>
+</tr>
+<tr>
+<td valign="middle"><b>Frontend</b></td>
+<td valign="middle"><img src="https://img.shields.io/badge/TypeScript-0c0a09?style=flat-square&logo=typescript&logoColor=84cc16" /> <img src="https://img.shields.io/badge/JavaScript-0c0a09?style=flat-square&logo=javascript&logoColor=84cc16" /> <img src="https://img.shields.io/badge/React-0c0a09?style=flat-square&logo=react&logoColor=84cc16" /> <img src="https://img.shields.io/badge/React%20Native-0c0a09?style=flat-square&logo=react&logoColor=84cc16" /> <img src="https://img.shields.io/badge/Next.js-0c0a09?style=flat-square&logo=nextdotjs&logoColor=84cc16" /> <img src="https://img.shields.io/badge/Tailwind-0c0a09?style=flat-square&logo=tailwindcss&logoColor=84cc16" /></td>
+</tr>
+<tr>
+<td valign="middle"><b>Cloud and ops</b></td>
+<td valign="middle"><img src="https://img.shields.io/badge/AWS-0c0a09?style=flat-square&logo=amazonwebservices&logoColor=84cc16" /> <img src="https://img.shields.io/badge/Google%20Cloud-0c0a09?style=flat-square&logo=googlecloud&logoColor=84cc16" /> <img src="https://img.shields.io/badge/Docker-0c0a09?style=flat-square&logo=docker&logoColor=84cc16" /> <img src="https://img.shields.io/badge/Vercel-0c0a09?style=flat-square&logo=vercel&logoColor=84cc16" /> <img src="https://img.shields.io/badge/Linux-0c0a09?style=flat-square&logo=linux&logoColor=84cc16" /> <img src="https://img.shields.io/badge/Git-0c0a09?style=flat-square&logo=git&logoColor=84cc16" /></td>
+</tr>
+</table>
 
 <br>
 

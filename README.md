@@ -10,7 +10,7 @@
 
 <a href="https://blaizans.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-0c0a09?style=for-the-badge&logo=vercel&logoColor=84cc16" alt="Portfolio" /></a>
 <a href="https://www.linkedin.com/in/bruno-laizans/"><img src="https://img.shields.io/badge/LinkedIn-0c0a09?style=for-the-badge&logo=linkedin&logoColor=84cc16" alt="LinkedIn" /></a>
-<a href="mailto:your.email@example.com"><img src="https://img.shields.io/badge/Email-0c0a09?style=for-the-badge&logo=maildotru&logoColor=84cc16" alt="Email" /></a>
+<a href="mailto:blaizans02@gmail.com"><img src="https://img.shields.io/badge/Email-0c0a09?style=for-the-badge&logo=maildotru&logoColor=84cc16" alt="Email" /></a>
 
 </div>
 
@@ -131,17 +131,12 @@ My personal site, where the longer write ups live. [Source](https://github.com/b
   <img src="https://raw.githubusercontent.com/blaizans/blaizans/output/snake.svg" width="100%" alt="Contribution graph" />
 </picture>
 
-<br><br>
-
-<img height="160" src="https://github-readme-stats.vercel.app/api?username=blaizans&show_icons=true&hide=stars&count_private=true&title_color=84cc16&text_color=fafaf9&icon_color=84cc16&bg_color=0c0a09&border_color=292524&border_radius=10" alt="GitHub stats" />
-<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=blaizans&layout=compact&langs_count=8&title_color=84cc16&text_color=fafaf9&bg_color=0c0a09&border_color=292524&border_radius=10" alt="Top languages" />
-
 </div>
 
 <br>
 
 ## Contact
 
-Open to **data engineering and backend** roles, remote or on site in Denmark.
+Open to **data engineering and fullstack** roles, remote or on site in Denmark.
 
-<a href="https://www.linkedin.com/in/bruno-laizans/">LinkedIn</a>&nbsp;&nbsp;·&nbsp;&nbsp;<a href="https://blaizans.vercel.app/">Portfolio</a>&nbsp;&nbsp;·&nbsp;&nbsp;<a href="mailto:your.email@example.com">Email</a>
+<a href="https://www.linkedin.com/in/bruno-laizans/">LinkedIn</a>&nbsp;&nbsp;·&nbsp;&nbsp;<a href="https://blaizans.vercel.app/">Portfolio</a>&nbsp;&nbsp;·&nbsp;&nbsp;<a href="mailto:blaizans02@gmail.com">Email</a>
